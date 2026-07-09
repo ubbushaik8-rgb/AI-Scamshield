@@ -1,0 +1,42 @@
+{
+  "name": "AI ScamShield",
+  "description": "AI-powered ScamShield developed for the IBM SkillsBuild Internship Project Showcase using Python Flask, IBM watsonx.ai, IBM Granite Models, LangFlow, and IBM Cloud Lite. The application detects phishing attacks, online scams, fake banking messages, malicious URLs, QR code scams, and provides intelligent cybersecurity recommendations.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "problem_statement": "Problem Statement No. X - AI ScamShield: Intelligent Scam & Phishing Detection Agent",
+  "technologies": [
+    "Python Flask",
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "LangFlow",
+    "IBM Cloud Lite",
+    "Bootstrap 5",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Retrieval-Augmented Generation (RAG)",
+    "ChromaDB"
+  ],
+  "features": [
+    "AI Scam Detection Assistant",
+    "Phishing Email Detection",
+    "SMS Scam Detection",
+    "WhatsApp Scam Detection",
+    "Fake Banking Message Detection",
+    "Malicious URL Analysis",
+    "QR Code Scam Detection",
+    "Threat Analysis",
+    "Cyber Safety Recommendations",
+    "Cybersecurity Dashboard"
+  ],
+  "environment": {
+    "IBM_API_KEY": "YOUR_IBM_CLOUD_API_KEY",
+    "WATSONX_PROJECT_ID": "YOUR_PROJECT_ID",
+    "WATSONX_URL": "YOUR_WATSONX_URL",
+    "WATSONX_MODEL_ID": "ibm/granite-3-3-8b-instruct"
+  },
+  "deployment": {
+    "platform": "IBM Cloud Lite",
+    "framework": "Flask"
+  }
+}
